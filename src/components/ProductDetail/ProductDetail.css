@@ -1,0 +1,23 @@
+.product-detail {
+    display: flex;
+    align-items: start;
+    padding: 20px;
+    gap: 20px;
+}
+
+.product-detail img {
+    width: 300px;
+    height: auto;
+    border-radius: 5px;
+}
+
+.product-detail-info {
+    display: flex;
+    flex-direction: column;
+}
+
+.product-price {
+    font-size: 24px;
+    color: #B12704;
+    margin-top: 10px;
+}
